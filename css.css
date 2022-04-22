@@ -1,0 +1,19 @@
+h1 {
+	color:#125B50;
+	text-align: center;
+}
+h2 {
+	color:#125B50;
+}
+body {
+	background-color: #F8B400;
+}
+p {
+	color: #FF6363;
+	background-color: #FAF5E4;
+	font-weight: 600;
+	font-size: 14px;
+}
+img {
+	float: right;
+}
